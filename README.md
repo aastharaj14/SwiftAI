@@ -28,7 +28,7 @@ Built with:
 
 ## 🔹 Output:
 
-![Generated Reply](screenshots/output.png)
+![Generated Reply](screenshots/output.jpeg)
 
 ---
 
