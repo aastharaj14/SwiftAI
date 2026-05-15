@@ -1,4 +1,4 @@
-# 🚀 ReplyAI : Smart Email Assistant
+# 🚀 SwiftAI : Smart Email Assistant
 
 An AI-powered email reply generator that creates professional and contextual email responses using **Google Gemini AI**.
 
